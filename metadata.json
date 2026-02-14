@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ALIFIDELE TECHLAB DIGITAL ASSISTANCE",
+  "description": "A premium digital service hub offering assistance with academic applications, job placements, and government services like RRA, RURA, and RDB.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
